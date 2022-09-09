@@ -1,1 +1,1 @@
-# registration_form
+# registration-form
